@@ -1,9 +1,19 @@
-[TOC]
+
 
 # Hotel Cancellation Analysis
 
 **Group 2:**  Thomas Dunn, Isaac Gish, Shannon Lloyd, Jason Miller, Tait Ralston
 
+------
+## Table of Contents
+
+- [Purpose](#purpose)
+- [Getting Started](#getting_started)
+- [Data Source](#data_source)
+- [Process](#process)
+- [Visualizations](#visualizations)
+- [ Final Analysis](#final_analysis)
+- [Contributors](#contributors)
 ------
 
 ## Purpose
@@ -34,7 +44,7 @@ The dataset includes data from the INN Hotels Group, which has a chain of hotels
 
 [INN Hotels Group](https://www.kaggle.com/datasets/mariyamalshatta/inn-hotels-group/data) 
 
-## Our Process
+## Process
 
 1.  Imported CSV file with PySpark.  
 
