@@ -8,11 +8,11 @@
 ## Table of Contents
 
 - [Purpose](#purpose)
-- [Getting Started](#getting_started)
-- [Data Source](#data_source)
+- [Usage](#usage)
+- [Data](#data)
 - [Process](#process)
 - [Visualizations](#visualizations)
-- [ Final Analysis](#final_analysis)
+- [Analysis](#analysis)
 - [Contributors](#contributors)
 ------
 
@@ -20,7 +20,7 @@
 
 Use machine learning (ML) with the other technologies we’ve learned to analyze different attributes of customers’ hotel booking details to create a model that can predict whether or not the booking will be canceled.
 
-## Getting Started
+## Usage
 
 All files for retrieving, cleaning, and modeling our data is in: 
 
@@ -38,7 +38,7 @@ The Tableau Viz is available at:
 
 
 
-## Data Source
+## Data
 
 The dataset includes data from the INN Hotels Group, which has a chain of hotels in Portugal. We used the dataset available from Mariyam Al Shatta on Kaggle. The data was already very clean, appeared well suited for machine learning, and is public domain.  
 
@@ -101,7 +101,7 @@ The dataset includes data from the INN Hotels Group, which has a chain of hotels
 
    
 
-## Final Analysis
+## Analysis
 
 Through our data modeling we learned that it is important to pick the right model for your data. We achieved very different results with various data models. TensorFlow was overfitting so it was not a good fit. Logistic Regression was good but Random Forest was a great fit for our data. Using the Random Forest Model we were able to achieve 90% accuracy. We also learned that Lead Time and Price per Room were the variables that had the great predictors  of whether a booking was going to be cancelled.
 
